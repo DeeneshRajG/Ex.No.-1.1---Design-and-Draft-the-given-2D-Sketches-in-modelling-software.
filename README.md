@@ -44,7 +44,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## OUTPUT
 
 
-file:///C:/Users/deene/OneDrive/Videos/Captures/Untitled.pdf
+<img width="1396" height="974" alt="exp11 pdf" src="https://github.com/user-attachments/assets/ed02b01b-ee15-41c2-8c5f-d3027d6a2202" />
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
